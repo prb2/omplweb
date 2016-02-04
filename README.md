@@ -2,7 +2,9 @@
 
 A web front end for sample based motion planning and benchmarking using the Open Motion Planning Library.
 
-[ompl.kavrakilab.org](http://ompl.kavrakilab.org)
+Application: [omplapp.kavrakilab.org](http://omplapp.kavrakilab.org)
+
+More information: [ompl.kavrakilab.org](http://ompl.kavrakilab.org)
 
 #  
 
